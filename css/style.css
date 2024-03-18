@@ -1,0 +1,16 @@
+.background-logo{
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-color: cornflowerblue;
+    height: 100px;
+}
+.logo{
+    height: 50px;
+    padding-top: 30px;
+}
+.color-p{
+    color: grey;
+}
+.color-blue{
+    color: cornflowerblue;
+}
