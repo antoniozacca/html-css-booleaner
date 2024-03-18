@@ -20,3 +20,26 @@
 .color-blue{
     color: cornflowerblue;
 }
+.color-yellow{
+    background-color: yellow;
+}
+.color-thead{
+    background-color:dodgerblue;
+}
+.color-tbody{
+    background-color: darkcyan;
+}
+.img-last1{
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: white;
+}
+.img-last2{
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: cover;
+    color: white;
+}
